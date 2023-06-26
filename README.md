@@ -2,7 +2,8 @@
 - 🔭 I’m currently working on Java,C and Vue.
 - 📘 I’m currently learning C# and Unity.
 - 🏹 I’m looking for help with some Unity skills.
-- 📫 How to reach me: greathongtian@gmail.com
+- 📫 How to reach me: greathongtian@gmail.com.
+- 😄 愿此行,终抵群星!
 <!--
 **Double-Hong/Double-Hong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
