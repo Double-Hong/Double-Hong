@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Java,C and Vue.
+- 🔭 I’m currently working on Java and Vue.
 - 📘 I’m currently learning C# and Unity.
 - 🏹 I’m looking for help with some Unity skills.
 - 📫 How to reach me: greathongtian@gmail.com.
