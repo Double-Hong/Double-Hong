@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Java and Vue
-- 📘 I’m currently learning C# and Unity
+- 📘 I’m currently learning C#,Unity and Lua
 - 🏹 I’m looking for help with some Unity skills
 - 📫 How to reach me: greathongtian@gmail.com
 - 😄 愿此行,终抵群星!
